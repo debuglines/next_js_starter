@@ -29,9 +29,9 @@ This Next.js starter is set up with the following.
 Download and initiate the starter.
 
 ```shell
-npx create-next-app [project-name] -e https://github.com/debuglines/next_js_starter
+npx create-next-app -e https://github.com/debuglines/next_js_starter [project-name]
 # or
-yarn create next-app [project-name] -e https://github.com/debuglines/next_js_starter
+yarn create next-app -e https://github.com/debuglines/next_js_starter [project-name]
 ```
 
 Run the project like a standard Next.js project.
